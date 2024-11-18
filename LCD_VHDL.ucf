@@ -1,0 +1,13 @@
+
+NET "clk" loc = C9;
+NET "db_1" loc = R15;
+NET "db_2" loc = R16;
+NET "db_3" loc = P17;
+NET "db_4" loc = M15;
+
+NET "e" loc = M18;
+NET "rs" loc = L18;
+NET "rw" loc = L17;
+NET "sf_e" loc = D16;
+
+	
