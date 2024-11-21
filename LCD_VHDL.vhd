@@ -52,7 +52,7 @@ begin
                 when "001010" => code <= "000000"; -- Upper nibble 0000
                 when "001011" => code <= "000001"; -- Lower nibble 0001 (Clear)
 
-                -- Write "Hello,"
+                -- Write "SSE"
                 when "001100" => code <= "100101"; -- 'S' upper nibble
                 when "001101" => code <= "100011"; -- 'S' lower nibble
                 when "001110" => code <= "100101"; -- 'S' upper nibble
